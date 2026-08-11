@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# PyCharm
+.idea/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# User-specific HydroTrack data
+app_settings.json
+bottle_color.json
+bottle_color_profiles.json
+
+# Windows
+Thumbs.db
+desktop.ini

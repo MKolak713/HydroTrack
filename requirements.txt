@@ -1,0 +1,5 @@
+opencv-python
+numpy
+mediapipe
+PySide6
+winotify
