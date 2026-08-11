@@ -54,4 +54,12 @@ actually occurred.
 
 ## Download
 
-A packaged Windows version of HydroTrack is available under Releases.
+### Windows
+
+Download the latest version of **HydroTrack** from the [Releases](https://github.com/MKolak713/HydroTrack/releases/latest) page.
+
+1. Open the latest release.
+2. Under **Assets**, click **HydroTrack.exe**.
+3. Once downloaded, open **HydroTrack.exe** to launch the application.
+
+> **Note:** HydroTrack currently supports Windows and requires a webcam for drink detection.
