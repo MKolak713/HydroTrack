@@ -37,9 +37,17 @@ actually occurred.
 - Winotify
 
 ## Screenshots
+
+### Home
 <img width="993" height="774" alt="htmain" src="https://github.com/user-attachments/assets/b14aefd6-c780-4661-a32f-1a9b21b2038d" />
+
+### Settings
 <img width="991" height="770" alt="htset" src="https://github.com/user-attachments/assets/171cf337-23ab-4ee1-be7d-000aea84e1d6" />
+
+### Calibration
 <img width="960" height="743" alt="htcal" src="https://github.com/user-attachments/assets/26e9dc5c-92ce-4f89-93c8-bed07ed79fc3" />
+
+### Drink Log
 <img width="993" height="770" alt="htlogs" src="https://github.com/user-attachments/assets/55b173bc-42e6-4866-ad9b-31ba97fc29a0" />
 
 
