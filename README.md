@@ -45,7 +45,7 @@ actually occurred.
 <img width="991" height="770" alt="htset" src="https://github.com/user-attachments/assets/171cf337-23ab-4ee1-be7d-000aea84e1d6" />
 
 ### Calibration
-<img width="960" height="743" alt="htcal" src="https://github.com/user-attachments/assets/26e9dc5c-92ce-4f89-93c8-bed07ed79fc3" />
+<img width="1021" height="796" alt="htcal1" src="https://github.com/user-attachments/assets/b0e2e5e0-d278-45fe-b3ce-42615adeebe4" />
 
 ### Drink Log
 <img width="993" height="770" alt="htlogs" src="https://github.com/user-attachments/assets/55b173bc-42e6-4866-ad9b-31ba97fc29a0" />
